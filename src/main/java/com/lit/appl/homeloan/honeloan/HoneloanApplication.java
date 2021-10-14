@@ -8,6 +8,7 @@ public class HoneloanApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HoneloanApplication.class, args);
+		System.out.println("hello");
 	}
 
 }
